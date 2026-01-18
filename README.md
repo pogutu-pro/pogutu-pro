@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.png" width="120" alt="pogutu-pro logo" />
+  <img src="./assets/logo.png" width="200" height="200" alt="pogutu-pro logo" />
   <h1>Paul Ogutu</h1>
   <p><strong>Software Engineer | Product Builder | Full-Stack Specialist</strong></p>
 
