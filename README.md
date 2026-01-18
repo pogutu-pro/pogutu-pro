@@ -1,100 +1,60 @@
 <div align="center">
-  <img src="./assets/logo.png" width="60" alt="pogutu-pro logo" />
-  
-  <h1 align="center">Paul Ogutu</h1>
-  
-  <p align="center">
-    <strong>Software Engineer · Product Builder · Systems Thinker</strong><br />
-    Full-Stack Architecture · SaaS Development · Student Housing Tech
-  </p>
+  <img src="./assets/logo.png" width="80" alt="pogutu-pro logo" />
+  <h1>Paul Ogutu</h1>
+  <p><strong>Software Engineer | Product Builder | Full-Stack Specialist</strong></p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Building_Rumia-0052FF?style=flat-square" />
-    <img src="https://img.shields.io/badge/Focus-SaaS_Product_Engineering-374151?style=flat-square" />
-    <img src="https://img.shields.io/badge/Availability-Open_to_Collaboration-059669?style=flat-square" />
+  <p>
+    <img src="https://img.shields.io/badge/Status-Building_Products-0052FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Availability-Open_to_Work-059669?style=for-the-badge" />
   </p>
 </div>
 
-<img src="./assets/hero.png" width="100%" alt="Paul Ogutu Workspace Banner" style="border-radius: 6px; margin: 20px 0;" />
+---
+
+### About
+
+I specialize in engineering **product-grade, end-to-end systems** designed for real-world operational constraints. My focus is on clean frontend architecture, pragmatic backend design, and delivering software that prioritizes user experience and maintainability.
 
 ---
 
-## About
+### Technical Proficiency
 
-I am a software engineer focused on building **real, end-to-end systems** with real users and operational constraints. I emphasize clean frontend architecture, pragmatic backend foundations, and shipping features that actually reduce friction.
-
-My work sits at the intersection of **product thinking** and **engineering execution**. I value fundamentals over hype, clarity over noise, and ownership over credentials.
-
-> *“Where there is ruin, there is hope for a treasure.” — Rumi*
-
----
-
-## Current Focus: Rumia
-**Shared Housing Management System (MVP)**
-
-Rumia is a rental management system for student housing and hostels, designed to support real operational workflows rather than abstract demos.
-
-<div align="center">
-  <img src="./assets/dashboard.png" width="100%" alt="Rumia System Dashboard" style="border: 1px solid #e1e4e8; border-radius: 6px;" />
-  <p align="right"><em>Internal Preview: Landlord management and occupancy tracking.</em></p>
-</div>
-
-* **Role:** Founder — product direction and full-stack engineering.
-* **Core Features:** Tenancy management, payments, profiles, and role-based access control.
-* **Technical Surface:** React (Vite) + Tailwind · FastAPI (Async) + SQLAlchemy 2.0 · PostgreSQL · Docker.
-* **Note:** The core production repository is private. I can provide a walkthrough or limited access on request.
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **Operations** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
 
 ---
 
-## How I Can Help
+### Selected Projects
 
-I work best with founders, teams, and organizations that need:
-
-* **Product-Ready Systems** — Moving from idea to a production-ready MVP.
-* **Frontend Architecture** — Building clean, scalable UX with robust state management.
-* **Backend Discipline** — APIs (Django / FastAPI) with real-world auth and data models.
-* **End-to-End Ownership** — An engineer who takes responsibility from architecture to deployment.
-
----
-
-## Technical Focus
-
-| Frontend | Backend | Engineering |
+| Project | Summary | Core Stack |
 | :--- | :--- | :--- |
-| React (Vite / Next.js) | Django (Primary) | Git & GitHub Workflows |
-| TypeScript | FastAPI (Async) | Linux & Networking |
-| Tailwind CSS | PostgreSQL & SQLAlchemy 2.0 | API Design (REST) |
-| Zustand · Framer Motion | Auth, JWT, & Pytest | System Design Thinking |
+| **Rumia** | Full-stack rental management system for student housing. | **Django, React, PostgreSQL** |
+| **Aqua UI** | High-fidelity generative chatbot interface with optimized UX. | **Next.js, TypeScript** |
+| **KEWASNET** | Collaborative development of a scalable chatbot platform. | **React, Django, REST** |
+| **Auth Service** | Standalone identity and user management service. | **FastAPI, Docker, Pytest** |
 
 ---
 
-## Operating Principles
+### Professional Services
 
-* **Products before résumés** — I ship useful outcomes, not just code.
-* **Fundamentals over frameworks** — I prioritize understanding the "why" behind the tool.
-* **Ownership over titles** — I am accountable for product outcomes, not just task completion.
-* **Small teams, high standards** — Extreme focus beats broad noise every time.
+* **Production MVPs:** Full-cycle development from conceptualization to deployment.
+* **Frontend Architecture:** Scaling React/Next.js applications with robust state management.
+* **API Development:** Secure, high-performance Django and FastAPI backend systems.
 
----
-
-## Performance & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pogutu-pro&show_icons=true&hide_border=true&theme=transparent&title_color=0052FF&text_color=374151&icon_color=0052FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogutu-pro&layout=compact&hide_border=true&theme=transparent&title_color=0052FF&text_color=374151" width="43%" />
-</p>
-
----
-
-## Contact
-
-* **GitHub:** [github.com/pogutu-pro](https://github.com/pogutu-pro)
-* **Email:** [pogutu010@gmail.com](mailto:pogutu010@gmail.com)
-* **LinkedIn:** [Your LinkedIn URL]
-
-**Status:** Building Rumia · Open to freelance, contract work, and technical collaborations.
+<br />
 
 <div align="center">
+  <a href="mailto:pogutu010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pogutu010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/pogutu-pro">
+    <img src="https://img.shields.io/badge/GitHub-pogutu--pro-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
   <br />
-  <sub style="color: #6c757d;">Last updated: January 2026</sub>
+  <br />
+  <sub>Build deliberately. Ship responsibly.</sub>
 </div>
